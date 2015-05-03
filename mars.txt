@@ -1,0 +1,3 @@
+execute
+hello everybody It's good day
+bye
